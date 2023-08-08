@@ -1,0 +1,6 @@
+rootProject.name = 'cloud-native'
+
+include('account')
+include('portfolio')
+include('config-service')
+
